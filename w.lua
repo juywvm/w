@@ -1,5 +1,0 @@
-print("OMG")
-print("OMG")
-print("OMG")
-print("OMG")
-print("OMG")
